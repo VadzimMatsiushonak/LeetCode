@@ -1,5 +1,7 @@
 package by.vadzim.LeetCode75.Day3.T21;
 
+import by.vadzim.LeetCode75.model.ListNode;
+
 /**
  * Best results Runtime 0 ms Beats 100% Memory 41.4 MB Beats 98.86%
  *
