@@ -4,7 +4,9 @@ import by.vadzim.LeetCode75.model.ListNode;
 
 /**
  * Best results
+ * <p>
  * Runtime 0 ms Beats 100%
+ * <p>
  * Memory 41.6 MB Beats 93.58%
  *
  * @author Vadzim Matsiushonak

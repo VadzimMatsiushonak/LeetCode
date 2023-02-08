@@ -1,7 +1,11 @@
 package by.vadzim.LeetCode75.Day5.T409;
 
 /**
- * Best results Runtime 1 ms Beats 100% Memory 40.1 MB Beats 97.53%
+ * Best results
+ * <p>
+ * Runtime 1 ms Beats 100%
+ * <p>
+ * Memory 40.1 MB Beats 97.53%
  *
  * @author Vadzim Matsiushonak
  */

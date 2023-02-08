@@ -4,7 +4,9 @@ import java.util.Arrays;
 
 /**
  * Best results
+ * <p>
  * Runtime 0 ms Beats 100%
+ * <p>
  * Memory 41.9 MB Beats 94.49%
  *
  * @author Vadzim Matsiushonak
@@ -25,8 +27,9 @@ class Solution {
     }
 
     public int[] runningSum(int[] nums) {
-        for (int i = 1; i < nums.length; i++)
+        for (int i = 1; i < nums.length; i++) {
             nums[i] += nums[i - 1];
+        }
         return nums;
     }
 

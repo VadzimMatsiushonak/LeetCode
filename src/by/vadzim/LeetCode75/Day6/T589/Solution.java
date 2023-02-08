@@ -5,7 +5,11 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Best results Runtime 0 ms Beats 100% Memory 42.6 MB Beats 91.54%
+ * Best results
+ * <p>
+ * Runtime 0 ms Beats 100%
+ * <p>
+ * Memory 42.6 MB Beats 91.54%
  *
  * @author Vadzim Matsiushonak
  */

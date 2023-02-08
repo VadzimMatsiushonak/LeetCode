@@ -1,8 +1,10 @@
 package by.vadzim.LeetCode75.Day2.T392;
 
 /**
- * Best results 
- * Runtime 0 ms Beats 100% 
+ * Best results
+ * <p>
+ * Runtime 0 ms Beats 100%
+ * <p>
  * Memory 39.8 MB Beats 97.64%
  *
  * @author Vadzim Matsiushonak

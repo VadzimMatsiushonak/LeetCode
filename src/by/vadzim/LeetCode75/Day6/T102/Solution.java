@@ -7,7 +7,11 @@ import java.util.List;
 import java.util.Queue;
 
 /**
- * Best results Runtime 0 ms Beats 100% Memory 42.1 MB Beats 96.26%
+ * Best results
+ * <p>
+ * Runtime 0 ms Beats 100%
+ * <p>
+ * Memory 42.1 MB Beats 96.26%
  *
  * @author Vadzim Matsiushonak
  */

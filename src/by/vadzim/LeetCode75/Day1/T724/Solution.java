@@ -1,8 +1,10 @@
 package by.vadzim.LeetCode75.Day1.T724;
 
 /**
- * Best results:
+ * Best results
+ * <p>
  * Runtime 1 ms Beats 100%
+ * <p>
  * Memory 42.6 MB Beats 95.39%
  *
  * @author Vadzim Matsiushonak
@@ -23,9 +25,13 @@ public class Solution {
 
     public int pivotIndex(int[] nums) {
         int totalSum = 0, currentSum = 0;
-        for (int num : nums) totalSum += num;
+        for (int num : nums) {
+            totalSum += num;
+        }
         for (int i = 0; i < nums.length; i++) {
-            if (currentSum << 1 == totalSum - nums[i]) return i;
+            if (currentSum << 1 == totalSum - nums[i]) {
+                return i;
+            }
             currentSum += nums[i];
         }
         return -1;

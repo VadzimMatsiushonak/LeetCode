@@ -3,7 +3,11 @@ package by.vadzim.LeetCode75.Day4.T142;
 import by.vadzim.LeetCode75.Day4.T141.ListNode;
 
 /**
- * Best results Runtime 0 ms Beats 100% Memory 42.4 MB Beats 92.37%
+ * Best results
+ * <p>
+ * Runtime 0 ms Beats 100%
+ * <p>
+ * Memory 42.4 MB Beats 92.37%
  *
  * @author Vadzim Matsiushonak
  */
