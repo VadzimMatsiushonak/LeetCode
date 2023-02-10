@@ -1,7 +1,5 @@
 package by.vadzim.LeetCode75.Day4.T141;
 
-import by.vadzim.LeetCode75.model.ListNode;
-
 /**
  * Best results
  * Runtime 0 ms Beats 100%
